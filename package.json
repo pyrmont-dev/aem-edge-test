@@ -23,6 +23,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "7.25.1",
     "@chromatic-com/storybook": "^1.7.0",
+    "@dylandepass/franklin-storybook-addon": "^0.0.54",
     "@storybook/addon-essentials": "^8.2.9",
     "@storybook/addon-interactions": "^8.2.9",
     "@storybook/addon-links": "^8.2.9",
@@ -37,5 +38,8 @@
     "storybook": "^8.2.9",
     "stylelint": "16.8.1",
     "stylelint-config-standard": "36.0.1"
+  },
+  "dependencies": {
+    "@storybook/addons": "^7.6.17"
   }
 }
